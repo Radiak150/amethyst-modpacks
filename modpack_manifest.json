@@ -1,18 +1,5 @@
 {
   "version": "1.0.0",
-  "zipUrl": "https://github.com/Radiak150/amethyst-modpacks/releases/download/v1.0.0/nervium-modpack-v1.0.0.zip",
+  "zipUrl": "https://github.com/Radiak150/amethyst-modpacks/releases/download/v1.0.0/modpack.zip",
   "required": true
 }
-      "path": "mods/cobblemon.jar",
-      "sha1": "HASH_AQUI",
-      "url": "https://SEU_USUARIO.github.io/amethyst-modpacks/files/mods/cobblemon.jar"
-    }
-    {
-      "path": "mods/sodium.jar",
-      "sha1": "HASH_AQUI",
-      "url": "https://SEU_USUARIO.github.io/amethyst-modpacks/files/mods/sodium.jar"
-    }
-  ]
-}
-
-
