@@ -6,7 +6,7 @@
       "path": "mods/cobblemon.jar",
       "sha1": "HASH_AQUI",
       "url": "https://SEU_USUARIO.github.io/amethyst-modpacks/files/mods/cobblemon.jar"
-    },
+    }
     {
       "path": "mods/sodium.jar",
       "sha1": "HASH_AQUI",
@@ -14,4 +14,5 @@
     }
   ]
 }
+
 
